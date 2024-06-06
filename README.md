@@ -29,6 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUPERREZZ&theme=bear&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Viragita&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SUPERREZZ&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
