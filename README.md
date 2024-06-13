@@ -28,9 +28,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=SUPERREZZ&theme=bear&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUPERREZZ&theme=bear&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rovinor4&theme=bear&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rovinor4&theme=bear&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SUPERREZZ&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rovinor4&icon=7&color=0)](https://visitcount.itsvg.in)
 
